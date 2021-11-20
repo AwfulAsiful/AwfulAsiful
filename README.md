@@ -1,16 +1,14 @@
-### Hi there 👋
+### Assalamualaikum Warahmatullah
+I am Mohammad Asiful Islam.I am doing my Bachelor's from International Islamic University,Chittagong in CSE.I am a junior MERN stack web-developer.
 
-<!--
-**AwfulAsiful/AwfulAsiful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 I’m currently learning Intermidiate Level React,Payment Gateway,Modular CSS
+- 😄 Pronouns: He/His
+- ⚡ Other activities: I am also involved in Competitive Programming and also took part in several programming contest.
+- 🏆 Major Achivements: I was ranked 8th in the NHSPC(National High School Programming Contest).
 
-Here are some ideas to get you started:
+## 🔗 Connect With Me:
+- [Facebook](https://www.facebook.com/awfulasiful/)
+- [Instagram](https://www.instagram.com/awful_asiful/)
+- [Twitter](https://twitter.com/iAsiful)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
