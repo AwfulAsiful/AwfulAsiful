@@ -5,7 +5,6 @@
 - 📚 Currently Studying B.Sc in **CSE**. 
 - 🏫 **Institution**: International Islamic University,Chittagong.
 - 🌱 I’m currently learning **Data Structures**,**Object Oriented Programming**.
-- 😄 Pronouns: He/His
 - ⚡ Other activities: Did a internship at GAOtek Inc. for 3 months and passionate about Web development.
 - 🏆 Major Achivements: I was ranked 8th in the **NHSPC(National High School Programming Contest)**.
 
